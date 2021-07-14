@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.github.carloshh</groupId>
-	<artifactId>poc-spring-data-mongo-migrations</artifactId>
+	<artifactId>poc-spring-data-mongodb-migrations</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>poc-spring-data-mongo</name>
 	<description>POC of a Spring Application with MongoDB, schema migrations and TestContainers </description>

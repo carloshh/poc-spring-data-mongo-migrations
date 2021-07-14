@@ -1,4 +1,4 @@
-# poc-spring-data-mongo-migrations
+# poc-spring-data-mongodb-migrations
 
 ### Introduction
 The following proof of concept aims to validate how to perform database migrations in MongoDB with Spring Boot 
